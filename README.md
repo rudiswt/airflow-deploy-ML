@@ -1,6 +1,4 @@
-# efsihery-assesment-ML
-eFishery recruitment process for the Machine Learning Engineer position. 
-Rudi Setiawan - rudiswtn@gmail.com
+
 
 ### Restore Database
 
